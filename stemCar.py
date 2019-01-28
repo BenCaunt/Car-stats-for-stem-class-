@@ -1,7 +1,7 @@
 #change to your car
-time = 3.586  # seconds
-distance = 5.81  #meters
-mass = 0.0198 #kg 
+time = int(input("time in seconds: "))   # seconds 3.586
+distance = int(input("distance in meters: "))   #meters 5.81
+mass = 0.0198 #kg
 
 #equation
 velocity = distance/time
